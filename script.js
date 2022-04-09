@@ -14,23 +14,23 @@ const nextBtn = document.getElementById("next");
 const songs = [
   {
     name: "jacinto-1",
-    displayName: "Electric Chill Machine",
-    artist: "Jacinto Design",
+    displayName: "Hypnotize",
+    artist: "The Notorious B.I.G",
   },
   {
     name: "jacinto-2",
-    displayName: "Seven Nation Army",
-    artist: "Jacinto Design",
+    displayName: "What They Do",
+    artist: "The Roots",
   },
   {
     name: "jacinto-3",
-    displayName: "Disco Queen",
-    artist: "Jacinto Design",
+    displayName: "Do For Love",
+    artist: "2Pac",
   },
   {
     name: "metric-1",
-    displayName: "Front Row (Remix)",
-    artist: "Jacinto Design",
+    displayName: "Work",
+    artist: "Gang Starr",
   },
 ];
 
